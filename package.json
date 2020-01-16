@@ -1,0 +1,26 @@
+{
+  "name": "bowling-tdd",
+  "version": "1.0.0",
+  "description": "Game bowling with test driven development",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NM-Naima/bowling-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NM-Naima/bowling-tdd/issues"
+  },
+  "homepage": "https://github.com/NM-Naima/bowling-tdd#readme",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "7.0.0"
+  }
+}
